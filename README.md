@@ -15,7 +15,7 @@ a product someone actually uses.
 ## a few things about me
 
 - MS at Arizona State University
-- Interned across 5 companies in ML, software engineering, and data
+- Worked across 5 companies in ML, software engineering, and data
 - Shipped a Flutter app that hit 100K+ downloads on Google Play
 - Top 11% in Coding contests
 - Equally at home in model work and full stack shipping
