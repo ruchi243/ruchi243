@@ -7,9 +7,9 @@ a product someone actually uses.
 
 ## what I'm working on
 
-- **Caseflow** — agentic AI orchestrator for legal case intake using Llama 3.2, 
+- **Caseflow** : agentic AI orchestrator for legal case intake using Llama 3.2, 
   RAG, and ChromaDB. Cuts manual intake by 85%.
-- **Smart Resume Builder** — paste a job description, get a tailored 
+- **Smart Resume Builder** : paste a job description, get a tailored 
   LaTeX PDF resume in seconds. Live at [smart-resume-builder-puce.vercel.app](https://smart-resume-builder-puce.vercel.app/)
 
 ## a few things about me
