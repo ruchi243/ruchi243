@@ -10,15 +10,16 @@ a product someone actually uses.
 - **Caseflow** : agentic AI orchestrator for legal case intake using Llama 3.2, 
   RAG, and ChromaDB. Cuts manual intake by 85%.
 
-
   repo - https://github.com/ruchi243/caseflow-chat
-
-
 
   video demo - https://drive.google.com/file/d/1Lc9YuhqA2-QWiCOskLiRe7cAKIuryJmW/preview
 - **Smart Resume Builder** : paste a job description, get a tailored 
   LaTeX PDF resume in seconds. Live at [smart-resume-builder-puce.vercel.app](https://smart-resume-builder-puce.vercel.app/)
+
+  
   repo - https://github.com/ruchi243/easy-apply
+
+  
   video demo - https://drive.google.com/file/d/1tkEer82rZJfVDwSDXAN-1LDeQgVcgQoe/preview
 
 ## a few things about me
